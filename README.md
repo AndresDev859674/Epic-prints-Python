@@ -1,6 +1,9 @@
 # Epic-prints-Python
 The Best Python Prints!
 
+# WARNING!
+Color Print Only Works in Windows Terminal Does Not Work in Legacy Cmd
+
 # Color Print
 These Are Message Colors.
 That You Can Put an Easy Color Message
